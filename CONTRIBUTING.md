@@ -49,6 +49,9 @@ products will be ignored. The request will have its content redacted and will
 be locked to prevent further discussion.
 
 All support requests must be made via [our support team][3].
+docs: improve contributing guidelines formatting
+<!-- minor formatting improvement -->
+
 
 [1]: https://github.com/base/node/issues
 [2]: https://medium.com/brigade-engineering/the-secrets-to-great-commit-messages-106fc0a92a25
